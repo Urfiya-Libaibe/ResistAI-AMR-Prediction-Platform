@@ -1,6 +1,6 @@
-# 🏥 ResistAI — Antimicrobial Resistance Prediction Platform
+# 🏥 ResistAI — Antibiotic Resistance AI App
 
-A multi-agent AI platform that predicts antibiotic resistance (AMR) and recommends safer alternatives, built as a hackathon project to tackle one of WHO's top global health threats.
+A multi-agent AI powered app that predicts antibiotic resistance (AMR) and recommends safer alternatives, built as a hackathon project to tackle one of WHO's top global health threats.
 
 ---
 
@@ -12,7 +12,7 @@ Antimicrobial Resistance (AMR) is one of the biggest global health threats — b
 
 ## 💡 Our Solution
 
-ResistAI is an AI-powered platform that:
+ResistAI is an AI-powered app that:
 - Predicts whether a bacteria strain is resistant to a given antibiotic
 - Recommends safer, effective antibiotic alternatives
 - Tracks patient medicine adherence via QR codes
