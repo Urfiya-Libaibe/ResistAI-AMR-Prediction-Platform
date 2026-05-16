@@ -1,6 +1,6 @@
 # 🏥 ResistAI — Antibiotic Resistance AI App
 
-A multi-agent AI powered app that predicts antibiotic resistance (AMR) and recommends safer alternatives, built as a hackathon project to tackle one of WHO's top global health threats.
+A multi-agent AI powered app that predicts antibiotic resistance (AMR) and recommends safer alternatives, built as a Ideathon project to tackle one of WHO's top global health threats.
 
 ---
 
